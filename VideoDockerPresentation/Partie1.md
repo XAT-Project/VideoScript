@@ -7,6 +7,22 @@ Bon ... et si l'on tout recommancer tout depuis le début ?
 
 Aujourd'hui l'informatique est composé de plein de chose. Par exemple, du genre, tu peux avoir des appareils connectés ou, rien qu'avec ta voix,ta maison va entierement repondre à toutes tes volonté, ou encore ton ordinateur, out lorsque tu va lui demandé : "Ou se trouve les capibara", il va te repondre "Oh les capibara vienne de d'Amérique du Sud, de la Colombie à l'Argentine.". 
 
+
+-----
+
+Mais tout ca est est possible grâce à une chose essentiel que sont les service. Bon, si vous n'êtes pas très familié avec l'informatique vous allez sans doute me demandé ce qu'est une service au juste, et à ca je vous répondrais que ce sont des logiciel comme excel mais qui n'ont pas d'interface graphique. L'avantage c'est que ce sont des logiciel qui consomme moins, car un fenetre à tendance à consommé des ressource à l'ordinateur mais aussi il peuvent etre lancé au demarrage d'un ordinateur et sans que personne ne face quoi que se soit pour fonctionné correctement, ce qui veut dire que, par exemple, vous avez votre serveur chez vous avec un serveur minecraft, et la il à un problème et redemarre, vous n'aurié pas besoin de cliqué sur quoi que ce soit pour que le tout se relance tout seul. Voila tout la force des service.
+
+Et le vous vous dite sans doute que "ok c'est cool mais quelle est le soucis" et je vous dirais que plein de problème peuvent apparaitre mais ca on le verras plus tard. 
+
+Bon maintenant que vous savez ce qu'es l'interet d'un service et de la puissance que cela à, il est temps de mettre en place ce service. Retournons sur notre cas de mise en place de serveur minecraft. Pourquoi minecraft, car c'est un jeu vidéo, et même plus simplement le jeu vidéo le plus vendu sur terre et que si vous n'y avais pas joué vous avez au moins un petit cousin, ou juste l'un de vos proche qui y à déjà joué et du coup vous voyer parfaitement que c'est un jeu avec juste des cube de partout, enfin bref.
+
+L'une des premiere chose que l'on pourrais ce dire c'est, si je veux installer mon serveur minecraft, je le met sur un ordinateur chez moi, et vous auriez raison. C'est la méthode la plus simple, qui utilise toutes les ressource de votre ordinateur ou de votre serveur au maximum.
+
+
+
+
+
+
 Mais l'un des chose central à beaucoup de ses technologie sont des petit logiciel que l'on nomme service. Attendais je vous explique et je vous promet que je vais pas prendre plus de 2 min.
 
 <Soupir>
